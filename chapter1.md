@@ -1,3 +1,11 @@
-# First Chapter
+添加gitignore后使之生效：
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+```
+git rm -r --cached . //删除本地缓存
+git add . //添加要提交的文件
+git commit -m 'update .gitignore' //更新本地的缓存
+git push origin
+```
+
+
+
