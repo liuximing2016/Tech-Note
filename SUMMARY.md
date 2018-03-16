@@ -9,4 +9,5 @@
   * [ThinkPad X250 加装SSD/重装系统](windows/thinkpad-x250-jia-zhuang-ssd-zhong-zhuang-xi-tong.md)
 * [项目](xiang-mu.md)
   * [MSH APP](xiang-mu/msh-app.md)
+* [小工具](xiao-gong-ju.md)
 
