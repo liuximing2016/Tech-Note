@@ -6,27 +6,29 @@
 
 3.备份目标电脑数据；
 
-4.拆卸机身底部8个螺丝，注意螺丝防丢设计无法完全卸下，拧松即可，用曲别针等卸下机身侧面卡托；
+4.F1进Setup - Config - Power - Disable Built-in Battery - YES，电脑会断电，断开电源，取下电池；
 
-5.从机身前部打开后盖，这样机身后部的卡扣很容易松开；
+5.拆9卸机身底部8个螺丝，注意螺丝防丢设计无法完全卸下，拧松即可，用曲别针等卸下机身侧面卡托；
 
-6.找到M.2接口，卸下螺丝，将ssd斜30度插紧，压下后固定螺丝，再组装好机身，装上卡托；
+6.从机身前部打开后盖，这样机身后部的卡扣很容易松开；
 
-7.插上启动盘，开机按F12进Boot Menu，确认有新装的SSD，然后App Menu-Setup-Startup确认UEFI/Legacy Boot项为UEFI Only；
+7.找到M.2接口，卸下螺丝，将ssd斜30度插紧，压下后固定螺丝，再组装好机身，装上卡托；
 
-8.重启，F12进Boot Menu，选择从U盘启动，会进入PE；
+8.插上启动盘，开机按F12进Boot Menu，确认有新装的SSD，然后App Menu-Setup-Startup确认UEFI/Legacy Boot项为UEFI Only；
 
-9.打开傲梅分区助手，看到多一块待分配的SSD，容量为标称容量除以3个1.024，选中SSD右键转化成GPT，选中原有的系统盘以及MBR、ESP等小盘右键删除分区，提交；
+9.重启，F12进Boot Menu，选择从U盘启动，会进入PE；
 
-10.打开DiskGenius，选中SSD右键自动分区，勾选生成MBR和ESP，分区数量选1，扇区默认的2048即可，提交；
+10.打开傲梅分区助手，看到多一块待分配的SSD，容量为标称容量除以3个1.024，选中SSD右键转化成GPT，选中原有的系统盘以及MBR、ESP等小盘右键删除分区，提交；
 
-11.打开老毛桃，选中win10镜像iso文件打开，选中win10家庭版，选中新建的SSD分区，注意NTFS格式，确定；
+11.打开DiskGenius，选中SSD右键自动分区，勾选生成MBR和ESP，分区数量选1，扇区默认的2048即可，提交；
 
-12.完成后自动重启，按F1进Setup，Startup-Boot调整启动顺序，此时Windows Boot Manager应是从SSD启动，放在第一位，如果Boot Manager不是从SSD启动，则可设置SSD为第一位，之后再修改Boot Manager；
+12.打开老毛桃，选中win10镜像iso文件打开，选中win10家庭版，选中新建的SSD分区，注意NTFS格式，确定；
 
-13.从SSD启动后进行win10一系列设置，登录微软账号，原系统曾激活且新系统与原系统版本一致（都是家庭版），则自动激活，重装完成；
+13.完成后自动重启，按F1进Setup，Startup-Boot调整启动顺序，此时Windows Boot Manager应是从SSD启动，放在第一位，如果Boot Manager不是从SSD启动，则可设置SSD为第一位，之后再修改Boot Manager；
 
-14.运行SSD Benchmark软件测速，左上角两个OK，第一个是AHCI开启，第二个是4K对齐，两个都OK即可，如果有Bad说明没有开启AHCI或没有4K对齐，对比测速与厂家宣传参数没问题即可。
+14.从SSD启动后进行win10一系列设置，登录微软账号，原系统曾激活且新系统与原系统版本一致（都是家庭版），则自动激活，重装完成；
+
+15.运行SSD Benchmark软件测速，左上角两个OK，第一个是AHCI开启，第二个是4K对齐，两个都OK即可，如果有Bad说明没有开启AHCI或没有4K对齐，对比测速与厂家宣传参数没问题即可。
 
 注意事项：
 
