@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [GitHub](chapter1.md)
 * [Linux](linux.md)
+* [Web](web.md)
+  * [SEO](web/seo.md)
 * [JavaScript](javascript.md)
   * [jQuery](javascript/jquery.md)
 * [HTML](html.md)
