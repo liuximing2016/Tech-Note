@@ -5,6 +5,7 @@
 * [Linux](linux.md)
 * [Web](web.md)
   * [SEO](web/seo.md)
+  * [yahoo军规](web/yahoojun-gui.md)
 * [JavaScript](javascript.md)
   * [jQuery](javascript/jquery.md)
 * [HTML](html.md)
