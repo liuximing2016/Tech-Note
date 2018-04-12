@@ -16,4 +16,5 @@
 * [项目](xiang-mu.md)
   * [MSH APP](xiang-mu/msh-app.md)
 * [小工具](xiao-gong-ju.md)
+* [Java](java.md)
 
