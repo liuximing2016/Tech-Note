@@ -17,4 +17,5 @@
   * [MSH APP](xiang-mu/msh-app.md)
 * [小工具](xiao-gong-ju.md)
 * [Java](java.md)
+  * [Eclipse](java/eclipse.md)
 
