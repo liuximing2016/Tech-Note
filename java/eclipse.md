@@ -4,3 +4,5 @@ Maven导入项目后关联SVN：项目上右键-Team-Share Project，选择SVN�
 
 打开的文件无法关联到声明处：打开要从文件所在的包中打开，不要从root包中打开
 
+开启Quick Outline，方便定位方法: `command + O`
+
