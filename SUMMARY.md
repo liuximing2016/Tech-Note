@@ -19,4 +19,5 @@
 * [小工具](xiao-gong-ju.md)
 * [Java](java.md)
   * [Eclipse](java/eclipse.md)
+* [Git](git.md)
 
