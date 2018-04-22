@@ -10,6 +10,7 @@
   * [jQuery](javascript/jquery.md)
   * [dva](javascript/dva.md)
   * [AntD](javascript/antd.md)
+  * [收藏文章](javascript/shou-cang-wen-zhang.md)
 * [HTML](html.md)
 * [Windows](windows.md)
   * [ThinkPad X250 加装SSD/重装系统](windows/thinkpad-x250-jia-zhuang-ssd-zhong-zhuang-xi-tong.md)
