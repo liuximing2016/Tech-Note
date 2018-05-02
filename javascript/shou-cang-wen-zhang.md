@@ -16,6 +16,8 @@ JavaScript中this、词法作用域、动态作用域、箭头函数的理解
 
 [https://www.zhihu.com/question/19636194](https://www.zhihu.com/question/19636194)
 
+https://zhuanlan.zhihu.com/p/23804247
+
 [https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345005399057070809cfaa347dfb7207900cfd116fb000](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345005399057070809cfaa347dfb7207900cfd116fb000)
 
 [https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001438565969057627e5435793645b7acaee3b6869d1374000](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001438565969057627e5435793645b7acaee3b6869d1374000)
@@ -28,11 +30,11 @@ JavaScript中this、词法作用域、动态作用域、箭头函数的理解
 
 Number调用toString\(\)方法产生的问题
 
-http://www.zuojj.com/archives/888.html
+[http://www.zuojj.com/archives/888.html](http://www.zuojj.com/archives/888.html)
 
 彻底理解JavaScript原型
 
-https://blog.csdn.net/u012468376/article/details/53121081
+[https://blog.csdn.net/u012468376/article/details/53121081](https://blog.csdn.net/u012468376/article/details/53121081)
 
-https://blog.csdn.net/u012468376/article/details/53127929
+[https://blog.csdn.net/u012468376/article/details/53127929](https://blog.csdn.net/u012468376/article/details/53127929)
 
